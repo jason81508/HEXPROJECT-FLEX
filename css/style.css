@@ -115,7 +115,7 @@ body {
     position: relative;
 }
 .banner img {
-    width: 100%;
+    max-width: 100%;
 }
 .banner h2 {
     width: 100%;
@@ -138,7 +138,7 @@ body {
     text-align: center;
 }
 .service-item img {
-    width: 100%;
+    max-width: 100%;
 }
 .service-item h3 {
     font-size: 22px;
